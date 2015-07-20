@@ -1,0 +1,51 @@
+{
+  "buildings": [
+    {
+      "name": "Jerome S. Coles Sports Center",
+      "map": "http://gonyuathletics.com/documents/2014/7/1/Coles_Complete_Map.pdf?id=2779",
+      "schedule": "http://gonyuathletics.com/sports/2012/3/16/colesactivityschedules.aspx?path=coles",
+      "size": "140,000 sq ft",
+      "usage": "3,500 per day",
+      "equipment": [
+        "1/6-mile, 3-lane running track",
+        "6 tennis courts",
+        "2 batting cages",
+        "dance studio",
+        "physical fitness room",
+        "conference room",
+        "5 squash courts",
+        "1 racquetball court",
+        "1,000 square feet of bouldering walls",
+        "25-meter, 6-lane recreational pool",
+        "a diving well with 2 1-meter diving boards and 1 3-meter diving board",
+        "saunas",
+        "fencing salle",
+        "aerobic fitness room",
+        "5 multipurpose courts (basketball, volleyball, tennis, badminton)",
+        "3 racquetball courts",
+        "varsity performance center",
+        "wrestling room",
+        "weight training room",
+        "weight room annex"
+      ],
+      "timetable": [
+        {}
+      ]
+    },
+    {
+      "name": "Palladium Athletic Facility"
+    },
+    {
+      "name": "Chelsea Piers"
+    },
+    {
+      "name": "Van Cortlandt Park"
+    },
+    {
+      "name": "Gaelic Park - Manhattan College (Soccer)"
+    },
+    {
+      "name": "Hudson River Park’s Pier 40 Athletic Fields (Soccer)"
+    }
+  ]
+}
