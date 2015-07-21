@@ -1,0 +1,1028 @@
+{
+  "locations": [
+    {
+      "title": "1 Washington Square Village",
+      "description": "",
+      "address": "1 Washington Square Village, New York, NY 10012, USA",
+      "latitude": 40.72873,
+      "longitude": -73.997329,
+      "buildingcode": "1WSV"
+    },
+    {
+      "title": "10 Astor Place",
+      "description": "",
+      "address": "10 Astor Pl, New York, NY 10003, USA",
+      "latitude": 40.729958,
+      "longitude": -73.992223,
+      "buildingcode": "10AST"
+    },
+    {
+      "title": "10 Washington Place",
+      "description": "",
+      "address": "10 Washington Pl, New York, NY 10003, USA",
+      "latitude": 40.729347,
+      "longitude": -73.994987,
+      "buildingcode": "10WPL"
+    },
+    {
+      "title": "110 Fifth Avenue",
+      "description": "",
+      "address": "110 5th Ave, New York, NY 10011, USA",
+      "latitude": 40.737673,
+      "longitude": -73.992925,
+      "buildingcode": "110F"
+    },
+    {
+      "title": "145 4th Avenue, Touro",
+      "description": "",
+      "address": "145 4th Ave, New York, NY 10003, USA",
+      "latitude": 40.7339096,
+      "longitude": -73.9897254,
+      "buildingcode": "145F"
+    },
+    {
+      "title": "15 MetroTech Center",
+      "description": "",
+      "address": "Polytechnic School of Engineering",
+      "latitude": 40.6940181,
+      "longitude": -73.98472101,
+      "buildingcode": ""
+    },
+    {
+      "title": "16 East 8th Street, Apartments",
+      "description": "",
+      "address": "16 E 8th St, New York, NY 10003, USA",
+      "latitude": 40.73162,
+      "longitude": -73.995515,
+      "buildingcode": ""
+    },
+    {
+      "title": "19 University Place",
+      "description": "",
+      "address": "19 University Pl, New York, NY 10003, USA",
+      "latitude": 40.731291,
+      "longitude": -73.994958,
+      "buildingcode": "19UP"
+    },
+    {
+      "title": "19 Washington Square North",
+      "description": "NYU Abu Dhabi New York City Office",
+      "address": "19 Washington Square N, New York, NY 10011, USA",
+      "latitude": 40.731861,
+      "longitude": -73.99763,
+      "buildingcode": "19WSN"
+    },
+    {
+      "title": "19 West 4th Street, 8 Washington Place",
+      "description": "",
+      "address": "19 W 4th St, New York, NY 10012, USA",
+      "latitude": 40.729,
+      "longitude": -73.9951,
+      "buildingcode": "19W4"
+    },
+    {
+      "title": "194 Mercer Street",
+      "description": "",
+      "address": "194 Mercer St, New York, NY 10012, USA",
+      "latitude": 40.7263885,
+      "longitude": -73.997077,
+      "buildingcode": "194MR"
+    },
+    {
+      "title": "196 Mercer Street",
+      "description": "",
+      "address": "196 Mercer St, New York, NY 10012, USA",
+      "latitude": 40.7264526,
+      "longitude": -73.9970238,
+      "buildingcode": "196MR"
+    },
+    {
+      "title": "2 MetroTech Center",
+      "description": "",
+      "address": "Polytechnic School of Engineering",
+      "latitude": 40.69337616,
+      "longitude": -73.98564982,
+      "buildingcode": ""
+    },
+    {
+      "title": "2 Washington Square Village",
+      "description": "",
+      "address": "2 Washington Square N, New York, NY 10012, USA",
+      "latitude": 40.7284,
+      "longitude": -73.9965,
+      "buildingcode": "2WSV"
+    },
+    {
+      "title": "22 Washington Square North",
+      "description": "",
+      "address": "22 Washington Square N, New York, NY 10011, USA",
+      "latitude": 40.731995,
+      "longitude": -73.998097,
+      "buildingcode": "22WSN"
+    },
+    {
+      "title": "240 Greene Street, 31 West 4th Street",
+      "description": "",
+      "address": "240 Greene St, New York, NY 10003, USA",
+      "latitude": 40.7296099,
+      "longitude": -73.9954183,
+      "buildingcode": "240G"
+    },
+    {
+      "title": "244 Greene Street, 21 Washington Place",
+      "description": "",
+      "address": "244 Greene St, New York, NY 10003, USA",
+      "latitude": 40.7297661,
+      "longitude": -73.995284,
+      "buildingcode": "244G"
+    },
+    {
+      "title": "25 West 4th Street",
+      "description": "Student Services Center & SCPS, Office of the Dean",
+      "address": "25 W 4th St, New York, NY 10012, USA",
+      "latitude": 40.7291,
+      "longitude": -73.9954,
+      "buildingcode": "25W4"
+    },
+    {
+      "title": "285 Mercer Street",
+      "description": "",
+      "address": "285 Mercer St, New York, NY 10003, USA",
+      "latitude": 40.72982,
+      "longitude": -73.994325,
+      "buildingcode": "285MR"
+    },
+    {
+      "title": "29 Washington Square West",
+      "description": "",
+      "address": "29 Washington Square W, New York, NY 10011, USA",
+      "latitude": 40.732194,
+      "longitude": -73.998585,
+      "buildingcode": "29WSW"
+    },
+    {
+      "title": "3 Washington Square Village",
+      "description": "",
+      "address": "3 Washington Square Village, New York, NY 10012, USA",
+      "latitude": 40.7279,
+      "longitude": -73.998,
+      "buildingcode": "3WSV"
+    },
+    {
+      "title": "37 Washington Square West",
+      "description": "",
+      "address": "37 Washington Square W, New York, NY 10011, USA",
+      "latitude": 40.731291,
+      "longitude": -73.999529,
+      "buildingcode": "37 WSW"
+    },
+    {
+      "title": "4 Washington Square North",
+      "description": "",
+      "address": "4 Washington Square N, New York, NY 10003, USA",
+      "latitude": 40.7275,
+      "longitude": -73.9973,
+      "buildingcode": "4WSN"
+    },
+    {
+      "title": "411 Lafayette",
+      "description": "",
+      "address": "411 Lafayette St, New York, NY 10003, USA",
+      "latitude": 40.7284481,
+      "longitude": -73.9925457,
+      "buildingcode": "411LF"
+    },
+    {
+      "title": "5 Washington Place",
+      "description": "",
+      "address": "5 Washington Pl, New York, NY 10003, USA",
+      "latitude": 40.729397,
+      "longitude": -73.994486,
+      "buildingcode": ""
+    },
+    {
+      "title": "5 Washington Square North",
+      "description": "",
+      "address": "5 Washington Square N, New York, NY 10003, USA",
+      "latitude": 40.731192,
+      "longitude": -73.995816,
+      "buildingcode": "5WSN"
+    },
+    {
+      "title": "547 Laguardia Place",
+      "description": "NYU Mail Services NYU Copy Central",
+      "address": "547 Laguardia Pl, New York, NY 10012, USA",
+      "latitude": 40.7289276,
+      "longitude": -73.9981908,
+      "buildingcode": "547LG"
+    },
+    {
+      "title": "561 LaGuardia Place ",
+      "description": "Office of Global Services (in Washington Square Village)",
+      "address": "561 LaGuardia Place, New York, NY 10012",
+      "latitude": 40.7291803,
+      "longitude": -73.9979283,
+      "buildingcode": ""
+    },
+    {
+      "title": "67 Livingston Street Residence Hall",
+      "description": "",
+      "address": "67 Livingston St, Brooklyn, NY 11201, USA",
+      "latitude": 40.692012,
+      "longitude": -73.991848,
+      "buildingcode": ""
+    },
+    {
+      "title": "7 East 12th St.",
+      "description": "McGhee Division, SCPS, 9th floor",
+      "address": "7 E 12th St, New York, NY 10003, USA",
+      "latitude": 40.734389,
+      "longitude": -73.993746,
+      "buildingcode": "7E12"
+    },
+    {
+      "title": "719 Broadway",
+      "description": "",
+      "address": "719 Broadway, New York, NY 10003, USA",
+      "latitude": 40.7291592,
+      "longitude": -73.9936102,
+      "buildingcode": "719BW"
+    },
+    {
+      "title": "726 Broadway",
+      "description": "Main Bookstore and Computer Store & Student Health Center Residential Life and Housing Services",
+      "address": "726 Broadway, New York, NY 10003, USA",
+      "latitude": 40.729365,
+      "longitude": -73.9933179,
+      "buildingcode": "726BW"
+    },
+    {
+      "title": "80 Washington Square East Galleries",
+      "description": "",
+      "address": "80 Washington Square East, New York, NY 10003, USA",
+      "latitude": 40.7299,
+      "longitude": -73.9962,
+      "buildingcode": ""
+    },
+    {
+      "title": "838 Broadway",
+      "description": "",
+      "address": "838 Broadway, New York, NY 10003, USA",
+      "latitude": 40.7337949,
+      "longitude": -73.990958,
+      "buildingcode": "838BW"
+    },
+    {
+      "title": "890 Broadway",
+      "description": "",
+      "address": "890 Broadway, New York, NY 10003, USA",
+      "latitude": 40.738414,
+      "longitude": -73.989402,
+      "buildingcode": "890B"
+    },
+    {
+      "title": "95 University Place",
+      "description": "",
+      "address": "95 University Pl, New York, NY 10003, USA",
+      "latitude": 40.7336853,
+      "longitude": -73.99279,
+      "buildingcode": ""
+    },
+    {
+      "title": "Academic Support Center (in renovations until spring 2016)",
+      "description": "",
+      "address": "383 Lafayette St, New York, NY 10012, USA",
+      "latitude": 40.7277023,
+      "longitude": -73.9932701,
+      "buildingcode": "383LF"
+    },
+    {
+      "title": "Alumni Hall",
+      "description": "",
+      "address": "33 3rd Ave, New York, NY 10003, USA",
+      "latitude": 40.730125,
+      "longitude": -73.989192,
+      "buildingcode": "ALUM"
+    },
+    {
+      "title": "Arnold and Marie Schartz Hall of Dental Sciences",
+      "description": "",
+      "address": "345 E 24th St, New York, NY 10010, USA",
+      "latitude": 40.737771,
+      "longitude": -73.978436,
+      "buildingcode": "SHDS"
+    },
+    {
+      "title": "Arthur L. Carter Journalism Institute",
+      "description": "",
+      "address": "20 Cooper Square, New York, NY 10003, USA",
+      "latitude": 40.7279671,
+      "longitude": -73.9913784,
+      "buildingcode": ""
+    },
+    {
+      "title": "Barney Building",
+      "description": "",
+      "address": "34 Stuyvesant St, New York, NY 10003, USA",
+      "latitude": 40.7298029,
+      "longitude": -73.98797,
+      "buildingcode": "BARN"
+    },
+    {
+      "title": "Basic Science Building",
+      "description": "",
+      "address": "433 1st Ave, New York, NY 10010, USA",
+      "latitude": 40.738669,
+      "longitude": -73.977647,
+      "buildingcode": "BSCI"
+    },
+    {
+      "title": "Bobst Library",
+      "description": "",
+      "address": "70 Washington Square S, New York, NY 10011, USA",
+      "latitude": 40.729649,
+      "longitude": -73.997018,
+      "buildingcode": "BOBST"
+    },
+    {
+      "title": "Brittany Residence Hall",
+      "description": "",
+      "address": "55 E 10th St, New York, NY 10003, USA",
+      "latitude": 40.7321594,
+      "longitude": -73.9920134,
+      "buildingcode": "BRITT"
+    },
+    {
+      "title": "Bronfman Center",
+      "description": "",
+      "address": "7 E 10th St, New York, NY 10003, USA",
+      "latitude": 40.733307,
+      "longitude": -73.994615,
+      "buildingcode": "BRONF"
+    },
+    {
+      "title": "Broom Street Residence",
+      "description": "",
+      "address": "400 Broome St, New York, NY 10013, USA",
+      "latitude": 40.720835,
+      "longitude": -73.99734,
+      "buildingcode": "BROOM"
+    },
+    {
+      "title": "Brown Building",
+      "description": "",
+      "address": "29 Washington Pl, New York, NY 10003, USA",
+      "latitude": 40.7299642,
+      "longitude": -73.9956655,
+      "buildingcode": "BROWN"
+    },
+    {
+      "title": "Cantor Film Center",
+      "description": "",
+      "address": "36 E 8th St, New York, NY 10003, USA",
+      "latitude": 40.7311679,
+      "longitude": -73.994435,
+      "buildingcode": "CANTR"
+    },
+    {
+      "title": "Carlyle Court",
+      "description": "",
+      "address": "25 Union Square W, New York, NY 10003, USA",
+      "latitude": 40.736159,
+      "longitude": -73.991042,
+      "buildingcode": "CARLY"
+    },
+    {
+      "title": "Casa Italiana Zerilli-Marimo",
+      "description": "",
+      "address": "24 W 12th St, New York, NY 10011, USA",
+      "latitude": 40.734879,
+      "longitude": -73.995835,
+      "buildingcode": "CASAI"
+    },
+    {
+      "title": "Center for Genomics and Systems Biology",
+      "description": "",
+      "address": "12 Waverly Pl, New York, NY 10003, USA",
+      "latitude": 40.729958,
+      "longitude": -73.994496,
+      "buildingcode": "12WV"
+    },
+    {
+      "title": "Coles Sports and Recreation Center",
+      "description": "",
+      "address": "181 Mercer St, New York, NY 10012, USA",
+      "latitude": 40.725828,
+      "longitude": -73.997576,
+      "buildingcode": "COLES"
+    },
+    {
+      "title": "Cooper Square",
+      "description": "",
+      "address": "50 Cooper Square, New York, NY 10003, USA",
+      "latitude": 40.7275803,
+      "longitude": -73.9915101,
+      "buildingcode": "TC"
+    },
+    {
+      "title": "Coral Towers",
+      "description": "",
+      "address": "129 3rd Ave, New York, NY 10003, USA",
+      "latitude": 40.73346,
+      "longitude": -73.986914,
+      "buildingcode": "CORAL"
+    },
+    {
+      "title": "D Agostino Hall",
+      "description": "",
+      "address": "110 W 3rd St, New York, NY 10012, USA",
+      "latitude": 40.7303109,
+      "longitude": -73.9999193,
+      "buildingcode": "DAG"
+    },
+    {
+      "title": "Deutsches House",
+      "description": "",
+      "address": "42 Washington Mews, New York, NY 10003, USA",
+      "latitude": 40.7314806,
+      "longitude": -73.9957293,
+      "buildingcode": "DHAUS"
+    },
+    {
+      "title": "Dibner Building",
+      "description": "",
+      "address": "Polytechnic School of Engineering",
+      "latitude": 40.694623,
+      "longitude": -73.985699,
+      "buildingcode": ""
+    },
+    {
+      "title": "East Building",
+      "description": "",
+      "address": "239 Greene St, New York, NY 10003, USA",
+      "latitude": 40.729482,
+      "longitude": -73.995575,
+      "buildingcode": "EAST"
+    },
+    {
+      "title": "Education Building",
+      "description": "",
+      "address": "35 W 4th St, New York, NY 10012, USA",
+      "latitude": 40.7294,
+      "longitude": -73.9959,
+      "buildingcode": "EDUC"
+    },
+    {
+      "title": "Founder Hall (12th Street Residence Hall)",
+      "description": "",
+      "address": "120 E 12th St, New York, NY 10003, USA",
+      "latitude": 40.7322736,
+      "longitude": -73.9889169,
+      "buildingcode": ""
+    },
+    {
+      "title": "Furman Hall",
+      "description": "",
+      "address": "245 Sullivan St, New York, NY 10012, USA",
+      "latitude": 40.730157,
+      "longitude": -73.999175,
+      "buildingcode": "FURH"
+    },
+    {
+      "title": "Gallatin School of Individual Study",
+      "description": "",
+      "address": "1 Washington Pl, New York, NY 10003, USA",
+      "latitude": 40.7290143,
+      "longitude": -73.9937154,
+      "buildingcode": "1WP"
+    },
+    {
+      "title": "Glucksman Ireland House",
+      "description": "",
+      "address": "1 Washington Mews, New York, NY 10003, USA",
+      "latitude": 40.731726,
+      "longitude": -73.996503,
+      "buildingcode": "ERIN"
+    },
+    {
+      "title": "Graduate School of Arts and Science",
+      "description": "",
+      "address": "6 Washington Square N, New York, NY 10003, USA",
+      "latitude": 40.731231,
+      "longitude": -73.995906,
+      "buildingcode": "6WSN"
+    },
+    {
+      "title": "Gramercy Green",
+      "description": "",
+      "address": "316 3rd Ave, New York, NY 10010, USA",
+      "latitude": 40.739369,
+      "longitude": -73.983125,
+      "buildingcode": ""
+    },
+    {
+      "title": "Greenwich Hotel",
+      "description": "",
+      "address": "636 Greenwich St, New York, NY 10014, USA",
+      "latitude": 40.731311,
+      "longitude": -74.00822,
+      "buildingcode": "GRHTL"
+    },
+    {
+      "title": "Grey Art Gallery",
+      "description": "",
+      "address": "100 Washington Square E, New York, NY ",
+      "latitude": 40.73027,
+      "longitude": -73.995686,
+      "buildingcode": ""
+    },
+    {
+      "title": "Hayden Residence Hall",
+      "description": "",
+      "address": "33 Washington Square W, New York, NY 10011, USA",
+      "latitude": 40.731664,
+      "longitude": -73.99957,
+      "buildingcode": "HAYDN"
+    },
+    {
+      "title": "Health Sciences Bookstore",
+      "description": "",
+      "address": "333 E 29th St, New York, NY 10016, USA",
+      "latitude": 40.741071,
+      "longitude": -73.976811,
+      "buildingcode": "E29HS"
+    },
+    {
+      "title": "Institute of French Studies",
+      "description": "",
+      "address": "15 Washington Mews, New York, NY 10003, USA",
+      "latitude": 40.7316764,
+      "longitude": -73.9962537,
+      "buildingcode": "IFST"
+    },
+    {
+      "title": "James B. Duke House - Institute of Fine Arts",
+      "description": "",
+      "address": "1 E 78th St, New York, NY 10075, USA",
+      "latitude": 40.7763075,
+      "longitude": -73.9641689,
+      "buildingcode": "1E78, DUKE"
+    },
+    {
+      "title": "Kaufman Management Center",
+      "description": "",
+      "address": "44 W 4th St, New York, NY 10012, USA",
+      "latitude": 40.7290941,
+      "longitude": -73.9959767,
+      "buildingcode": "KMC"
+    },
+    {
+      "title": "Kimball Hall",
+      "description": "",
+      "address": "246 Greene Street, New York, NY 10003, USA",
+      "latitude": 40.7301,
+      "longitude": -73.995,
+      "buildingcode": "kimb"
+    },
+    {
+      "title": "Kimmel Center for University Life",
+      "description": "",
+      "address": "60 Washington Square S, New York, NY 10012, USA",
+      "latitude": 40.730102,
+      "longitude": -73.997726,
+      "buildingcode": "KIMM"
+    },
+    {
+      "title": "King Juan Carlos I Center",
+      "description": "",
+      "address": "53 Washington Square S, New York, NY 10012, USA",
+      "latitude": 40.7304949,
+      "longitude": -73.998471,
+      "buildingcode": "KJCC"
+    },
+    {
+      "title": "La Maison Francaise",
+      "description": "",
+      "address": "16 Washington Mews, New York, NY 10003, USA",
+      "latitude": 40.731378,
+      "longitude": -73.9954851,
+      "buildingcode": "LAMAF"
+    },
+    {
+      "title": "Lafayette Residence Hall",
+      "description": "",
+      "address": "80 Lafayette St, New York, NY 10013, USA",
+      "latitude": 40.717079,
+      "longitude": -74.001718,
+      "buildingcode": "80LAF"
+    },
+    {
+      "title": "Leslie Entrepreneurs Lab",
+      "description": "To open summer 2014",
+      "address": "242 Greene St, New York, NY 10003, USA",
+      "latitude": 40.733856,
+      "longitude": -73.951149,
+      "buildingcode": ""
+    },
+    {
+      "title": "Lillian Vernon Creative Writers House",
+      "description": "",
+      "address": "58 W 10th St, New York, NY 10011, USA",
+      "latitude": 40.7344421,
+      "longitude": -73.9979341,
+      "buildingcode": "VERN"
+    },
+    {
+      "title": "Mercer Street Residence",
+      "description": "",
+      "address": "240 Mercer St, New York, NY 10012, USA",
+      "latitude": 40.7279034,
+      "longitude": -73.9958215,
+      "buildingcode": "240MR"
+    },
+    {
+      "title": "Merril Hall",
+      "description": "",
+      "address": "90 Trinity Pl, New York, NY 10006, USA",
+      "latitude": 40.7088972,
+      "longitude": -74.0122452,
+      "buildingcode": "MERRL"
+    },
+    {
+      "title": "Meyer Hall",
+      "description": "",
+      "address": "4 Washington Pl, New York, NY 10003, USA",
+      "latitude": 40.729092,
+      "longitude": -73.994046,
+      "buildingcode": "MEYER"
+    },
+    {
+      "title": "Midtown Center",
+      "description": "",
+      "address": "11 W 42nd St, New York, NY 10110, USA",
+      "latitude": 40.75435,
+      "longitude": -73.9818219,
+      "buildingcode": "11W42"
+    },
+    {
+      "title": "Morton Williams Associated",
+      "description": "",
+      "address": "509 Laguardia Pl, New York, NY 10012, USA",
+      "latitude": 40.7278708,
+      "longitude": -73.9991039,
+      "buildingcode": ""
+    },
+    {
+      "title": "NYU Card Center",
+      "description": "",
+      "address": "7 Washington Pl, New York, NY 10003, USA",
+      "latitude": 40.729661,
+      "longitude": -73.994499,
+      "buildingcode": ""
+    },
+    {
+      "title": "NYU Langone Medical Center",
+      "description": "",
+      "address": "530 1st Ave, New York, NY 10016, USA",
+      "latitude": 40.741632,
+      "longitude": -73.974917,
+      "buildingcode": "MED"
+    },
+    {
+      "title": "Nichols Hall",
+      "description": "",
+      "address": "100 Trinity Pl, New York, NY 10006, USA",
+      "latitude": 40.7089388,
+      "longitude": -74.0122184,
+      "buildingcode": "NICH"
+    },
+    {
+      "title": "Off-Campus Housing",
+      "description": "Off-Campus Housing",
+      "address": "4 Washington Square N, New York, NY 10012, USA",
+      "latitude": 40.7275,
+      "longitude": -73.9973,
+      "buildingcode": "4WSV"
+    },
+    {
+      "title": "Othmer Residence Hall",
+      "description": "",
+      "address": "Polytechnic School of Engineering",
+      "latitude": 40.69508257,
+      "longitude": -73.98633118,
+      "buildingcode": ""
+    },
+    {
+      "title": "Palladium Hall",
+      "description": "",
+      "address": "140 E 14th St, New York, NY 10003, USA",
+      "latitude": 40.733519,
+      "longitude": -73.988162,
+      "buildingcode": "PALL"
+    },
+    {
+      "title": "Paulette Goddard Hall",
+      "description": "",
+      "address": "79 Washington Square E, New York, NY 10003, USA",
+      "latitude": 40.729714,
+      "longitude": -73.996434,
+      "buildingcode": "GODD"
+    },
+    {
+      "title": "Pless Annex",
+      "description": "",
+      "address": "26 Washington Pl, New York, NY 10003, USA",
+      "latitude": 40.7299,
+      "longitude": -73.9959,
+      "buildingcode": "PANX"
+    },
+    {
+      "title": "Pless Hall",
+      "description": "",
+      "address": "82 Washington Square East, New York, NY 10003, USA",
+      "latitude": 40.73,
+      "longitude": -73.996,
+      "buildingcode": "PLESS"
+    },
+    {
+      "title": "Public Safety - Administrative Office",
+      "description": "",
+      "address": "14 Washington Pl, New York, NY 10003, USA",
+      "latitude": 40.729465,
+      "longitude": -73.995223,
+      "buildingcode": "14WPL"
+    },
+    {
+      "title": "Public Safety - Command Center",
+      "description": "",
+      "address": "7 Washington Pl, New York, NY 10003, USA",
+      "latitude": 40.729661,
+      "longitude": -73.994499,
+      "buildingcode": ""
+    },
+    {
+      "title": "Puck Building",
+      "description": "Robert F. Wagner Graduate School of Public Service",
+      "address": "295 Lafayette Street, New York, NY 10012, USA ",
+      "latitude": 40.7247,
+      "longitude": -73.9956,
+      "buildingcode": "PUCK"
+    },
+    {
+      "title": "Rogers Hall and Jacobs Academic Building",
+      "description": "",
+      "address": "Polytechnic School of Engineering",
+      "latitude": 40.694011,
+      "longitude": -73.986706,
+      "buildingcode": ""
+    },
+    {
+      "title": "Rubin Hall",
+      "description": "",
+      "address": "35 5th Ave, New York, NY 10003, USA",
+      "latitude": 40.733448,
+      "longitude": -73.995334,
+      "buildingcode": "RUBIN"
+    },
+    {
+      "title": "Rufus D. Smith Hall",
+      "description": "",
+      "address": "25 Waverly Pl, New York, NY 10003, USA",
+      "latitude": 40.7306,
+      "longitude": -73.994791,
+      "buildingcode": "RUFUS"
+    },
+    {
+      "title": "Second Street Residence Hall",
+      "description": "",
+      "address": "1 E 2nd St, New York, NY 10003, USA",
+      "latitude": 40.725462,
+      "longitude": -73.991941,
+      "buildingcode": ""
+    },
+    {
+      "title": "Seventh Street Residence Hall",
+      "description": "",
+      "address": "40 E 7th St, New York, NY 10003, USA",
+      "latitude": 40.7281239,
+      "longitude": -73.9886805,
+      "buildingcode": "40E7"
+    },
+    {
+      "title": "Shimkin Hall Jeffrey S. Gould Welcome Center",
+      "description": "",
+      "address": "50 W 4th St, New York, NY 10012, USA",
+      "latitude": 40.7293128,
+      "longitude": -73.9964365,
+      "buildingcode": "SHIMK"
+    },
+    {
+      "title": "Silk Building, 14 East 4th Street",
+      "description": "",
+      "address": "14 W 4th St, New York, NY 10012, USA",
+      "latitude": 40.728078,
+      "longitude": -73.99369,
+      "buildingcode": "SILK"
+    },
+    {
+      "title": "Silver Center for Arts and Science",
+      "description": "",
+      "address": "100 Washington Square E, New York, NY 10003, USA",
+      "latitude": 40.7305756,
+      "longitude": -73.9956831,
+      "buildingcode": "SILVR"
+    },
+    {
+      "title": "Silver School of Social Work",
+      "description": "",
+      "address": "1 Washington Square N, New York, NY 10003, USA",
+      "latitude": 40.73082,
+      "longitude": -73.995667,
+      "buildingcode": "1WSN"
+    },
+    {
+      "title": "Silver Towers, 100 Bleecker",
+      "description": "",
+      "address": "100 Bleecker St, New York, NY 10012, USA",
+      "latitude": 40.727153,
+      "longitude": -73.998145,
+      "buildingcode": ""
+    },
+    {
+      "title": "Silver Towers, 110 Bleecker",
+      "description": "",
+      "address": "110 Bleecker St, New York, NY 10012, USA",
+      "latitude": 40.72695,
+      "longitude": -73.998542,
+      "buildingcode": "110BL"
+    },
+    {
+      "title": "Skirball Center for the Performing Arts ",
+      "description": "",
+      "address": "566 Laguardia Pl, New York, NY 10012, USA",
+      "latitude": 40.729795,
+      "longitude": -73.997684,
+      "buildingcode": ""
+    },
+    {
+      "title": "Stephen Chan House",
+      "description": "",
+      "address": "14 E 78th St, New York, NY 10075, USA",
+      "latitude": 40.775746,
+      "longitude": -73.963494,
+      "buildingcode": "CHAN"
+    },
+    {
+      "title": "The Hagop Kevorkian Center",
+      "description": "",
+      "address": "50 Washington Square S, New York, NY 10012, USA",
+      "latitude": 40.7305069,
+      "longitude": -73.9985689,
+      "buildingcode": "KEVOR"
+    },
+    {
+      "title": "The Institute for the Study of the Ancient World",
+      "description": "",
+      "address": "15 E 84th St, New York, NY 10028, USA",
+      "latitude": 40.7800129,
+      "longitude": -73.960189,
+      "buildingcode": "ISAW"
+    },
+    {
+      "title": "Third Avenue North Residence Hall",
+      "description": "",
+      "address": "75 3rd Ave, New York, NY 10003, USA",
+      "latitude": 40.731381,
+      "longitude": -73.988484,
+      "buildingcode": "75E3"
+    },
+    {
+      "title": "Thirteenth Street Residence Hall",
+      "description": "",
+      "address": "47 W 13th St, New York, NY 10011, USA",
+      "latitude": 40.7362671,
+      "longitude": -73.9963535,
+      "buildingcode": "13DRM"
+    },
+    {
+      "title": "Tisch Hall",
+      "description": "",
+      "address": "40 W 4th St, New York, NY 10012, USA",
+      "latitude": 40.729082,
+      "longitude": -73.996321,
+      "buildingcode": "TISC"
+    },
+    {
+      "title": "Tisch School of the Arts",
+      "description": "",
+      "address": "721 Broadway, New York, NY 10003, USA",
+      "latitude": 40.729291,
+      "longitude": -73.993671,
+      "buildingcode": "721BW"
+    },
+    {
+      "title": "Torch Club",
+      "description": "",
+      "address": "18 Waverly Pl, New York, NY 10003, USA",
+      "latitude": 40.730087,
+      "longitude": -73.994756,
+      "buildingcode": ""
+    },
+    {
+      "title": "Twenty-sixth Street Residence",
+      "description": "",
+      "address": "334 E 26th St, New York, NY 10010, USA",
+      "latitude": 40.73912,
+      "longitude": -73.978039,
+      "buildingcode": "E26"
+    },
+    {
+      "title": "University Court",
+      "description": "",
+      "address": "334 E 25th St, New York, NY 10010, USA",
+      "latitude": 40.738433,
+      "longitude": -73.978393,
+      "buildingcode": "UNCRT"
+    },
+    {
+      "title": "University Hall",
+      "description": "",
+      "address": "110 E 14th St, New York, NY 10003, USA",
+      "latitude": 40.7340293,
+      "longitude": -73.9889816,
+      "buildingcode": "UHALL"
+    },
+    {
+      "title": "Vanderbilt Hall",
+      "description": "",
+      "address": "40 Washington Square S, New York, NY 10012, USA",
+      "latitude": 40.730538,
+      "longitude": -73.999482,
+      "buildingcode": "VAND"
+    },
+    {
+      "title": "Veterans Administration Hospital",
+      "description": "",
+      "address": "423 E 23rd St, New York, NY 10010, USA",
+      "latitude": 40.7363165,
+      "longitude": -73.977115,
+      "buildingcode": "423E"
+    },
+    {
+      "title": "Warren Weaver Hall",
+      "description": "Courant Institute of Mathematical Sciences",
+      "address": "251 Mercer St, New York, NY 10012, USA",
+      "latitude": 40.7287,
+      "longitude": -73.9956,
+      "buildingcode": "CIWW"
+    },
+    {
+      "title": "Wasserman Center for Career Development",
+      "description": "2nd floor",
+      "address": "133 East 13th St., New York, NY 10003, USA",
+      "latitude": 40.7332358,
+      "longitude": -73.9890676,
+      "buildingcode": ""
+    },
+    {
+      "title": "Waverly Building",
+      "description": "",
+      "address": "24 Waverly Pl, New York, NY 10003, USA",
+      "latitude": 40.730272,
+      "longitude": -73.995124,
+      "buildingcode": "WAVE"
+    },
+    {
+      "title": "Weinstein Residence Hall",
+      "description": "",
+      "address": "5 University Pl, New York, NY 10003, USA",
+      "latitude": 40.730945,
+      "longitude": -73.994805,
+      "buildingcode": "WEIN"
+    },
+    {
+      "title": "Weissman Building",
+      "description": "",
+      "address": "421 1st Ave, New York, NY 10010, USA",
+      "latitude": 40.738123,
+      "longitude": -73.978091,
+      "buildingcode": "WEIS"
+    },
+    {
+      "title": "Woolworth Building",
+      "description": "",
+      "address": "25 Barclay St, New York, NY 10279, USA",
+      "latitude": 40.7124423,
+      "longitude": -74.0090082,
+      "buildingcode": "WOOL"
+    },
+    {
+      "title": "Wunsch Building",
+      "description": "",
+      "address": "Polytechnic School of Engineering",
+      "latitude": 40.69431858,
+      "longitude": -73.98487061,
+      "buildingcode": ""
+    }
+  ]
+}
