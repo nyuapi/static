@@ -28,24 +28,257 @@
         "weight training room",
         "weight room annex"
       ],
+      "directions": "http://www.gonyuathletics.com/sports/2011/12/15/Coles_1215115358.aspx?path=coles",
+      "hours": "http://www.gonyuathletics.com/sports/2011/12/13/Coles_1213112916.aspx?path=coles",
       "timetable": [
-        {}
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "6:30am-10:30pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "8:30am-7:30pm"
+            }
+          ]
+        },
+        {
+          "time": "winter recess",
+          "information": [
+            {
+              "name": "December 19, 2014",
+              "time": "9:00am-10:00pm"
+            },
+            {
+              "name": "December 20 & 21, 23 2014",
+              "time": "9:00am-8:00pm"
+            },
+            {
+              "name": "December 24 & 25, 2014",
+              "time": "Closed"
+            },
+            {
+              "name": "December 26, 2014",
+              "time": "12:00am-10:00pm"
+            },
+            {
+              "name": "December 27 & 28, 2014",
+              "time": "9:00am-8:00pm"
+            },
+            {
+              "name": "December 29 & 30, 2014",
+              "time": "12:00am-10:00pm"
+            },
+            {
+              "name": "December 31, 2014",
+              "time": "12:00am-5:00pm"
+            },
+            {
+              "name": "January 1, 2015",
+              "time": "Closed"
+            },
+            {
+              "name": "January 2, 2015",
+              "time": "12:00pm-10:00pm"
+            },
+            {
+              "name": "January 2, 2015",
+              "time": "9:00am-8:00pm"
+            },
+            {
+              "name": "January 3 & 4, 2015",
+              "time": "9:00pm-8:00pm"
+            },
+            {
+              "name": "January 5-9, 2015",
+              "time": "12:00pm-10:00pm"
+            },
+            {
+              "name": "January 10 & 11, 2015",
+              "time": "9:00pm-8:00pm"
+            },
+            {
+              "name": "January 12-16, 2015",
+              "time": "12:00pm-10:00pm"
+            },
+            {
+              "name": "January 17 & 18, 2015",
+              "time": "9:00pm-8:00pm"
+            },
+            {
+              "name": "January 19, 2015",
+              "time": "9:00pm-10:00pm"
+            }
+          ]
+        },
+        {
+          "time": "spring recess",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "9:00am-10:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "9:00am-8:00pm"
+            }
+          ]
+        },
+        {
+          "time": "summer recess",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "7:30am-10:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "9:00am-5:00pm"
+            }
+          ]
+        }
       ]
     },
     {
-      "name": "Palladium Athletic Facility"
+      "name": "Palladium Athletic Facility",
+      "map": "",
+      "schedule": "http://www.gonyuathletics.com/sports/2011/12/6/Palladium_1206111407.aspx?path=palladium",
+      "size": "6,573 sq ft",
+      "usage": "",
+      "equipment": [
+        "weight room complete with free weights",
+        "plate-loaded machines",
+        "selectorized machines",
+        "aerobic fitness room",
+        "regulation-sized basketball court",
+        "rowing machines"
+      ],
+      "directions": "http://www.gonyuathletics.com/sports/2011/12/1/Palladium_1201115605.aspx?path=palladium",
+      "hours": "http://www.gonyuathletics.com/sports/2011/12/1/Palladium_1201110646.aspx?path=palladium",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "7:30am-11:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "8:30am-9:00pm"
+            }
+          ]
+        },
+        {
+          "time": "winter recess",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "12:00pm-10:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "12:00pm-8:00pm"
+            }
+          ]
+        },
+        {
+          "time": "spring recess",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "12:00pm-10:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "12:00pm-8:00pm"
+            }
+          ]
+        },
+        {
+          "time": "summer recess",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "8:30am-11:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "12:00pm-8:00pm"
+            }
+          ]
+        }
+      ]
     },
     {
-      "name": "Chelsea Piers"
-    },
-    {
-      "name": "Van Cortlandt Park"
-    },
-    {
-      "name": "Gaelic Park - Manhattan College (Soccer)"
-    },
-    {
-      "name": "Hudson River Park’s Pier 40 Athletic Fields (Soccer)"
+      "name": "Brookyln Athletic Facility",
+      "map": "",
+      "schedule": "http://www.gonyuathletics.com/sports/2014/10/13/BAF_1013141640.aspx?path=baf",
+      "size": "",
+      "usage": "",
+      "equipment": [
+        "regulation-sized basketball court",
+        "dance studio",
+        "fitness center"
+      ],
+      "directions": "http://www.gonyuathletics.com/sports/2014/10/8/BAF_1008142502.aspx?path=baf",
+      "hours": "http://www.gonyuathletics.com/sports/2014/7/15/BAF_0715144605.aspx?path=baf",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "7:30am-9:30pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "10:00am-5:00pm"
+            }
+          ]
+        },
+        {
+          "time": "winter recess",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "7:30am-7:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "10:00am-4:00pm"
+            }
+          ]
+        },
+        {
+          "time": "spring recess",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "7:30am-7:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "10:00am-4:00pm"
+            }
+          ]
+        },
+        {
+          "time": "summer recess",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "7:30am-9:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "10:00pm-5:00pm"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
