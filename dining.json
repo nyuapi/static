@@ -1,0 +1,687 @@
+{
+  "url": "http://nyu.campusdish.com/",
+  "description": "",
+  "attachments": [
+    {
+      "name": "email",
+      "value": "dining.services@nyu.edu"
+    }
+  ],
+  "dining": [
+    {
+      "name": "Argo Tea",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/argotea-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/ArgoTea.aspx",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "8:00am-6:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "Closed"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": false
+        }
+      ],
+      "description": "We are very excited to have Argo Tea in the NYU Dining family of brands. Argo's specialized bouTEAque style and premium customer service brings a refreshing and unique experience. The menu offers signature loose teas and blends from around the world, teaware, and specialty foods. Argo Tea is passionate about bringing teas directly from growers around the world and blending them into unique and delicious signature beverages. They are dedicated to delivering consistent quality and genuine customer experience with a 'one customer and one cup at a time' approach.",
+      "address": "239 Greene Street, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.729729,-73.99556&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-998-4153"
+    },
+    {
+      "name": "Dunkin' Donuts",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/DunkinDonuts-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/DunkinDonuts.aspx",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "6:00am-8:00pm"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "7:00am-8:00pm"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "Welcome to NYU's Dunkin’ Donuts. It's the delicious details that make the Dunkin' Donuts on Union Square a daily ritual for the NYU community. Dunkin' is the largest coffee and baked goods chain in the world, providing high quality coffee, bagels and other baked goods.",
+      "address": "10 E. 14th Street, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.734226,-73.988945&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-443-3611"
+    },
+    {
+      "name": "Hayden Dining Hall",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/hayden-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/HaydenDiningHall.aspx",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "Closed"
+            },
+            {
+              "name": "Saturday-Sunday",
+              "time": "Closed"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "Hayden represents NYU Dining’s sustainable eating initiatives with a focus on vegetarian and vegan cuisine. With our Acre to Avenue platform, we show support for local farmers by serving a selection of seasonal locally grown fruits and vegetables.",
+      "address": "33 Washington Square West, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.731514,-73.999207&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-995-3074"
+    },
+    {
+      "name": "Kosher Eatery",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/KosherEatery-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/KosherEatery.aspx",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Thursday",
+              "time": "11:30am-7:30pm"
+            },
+            {
+              "name": "Friday",
+              "time": "11:30am-3:00pm"
+            },
+            {
+              "name": "Saturday",
+              "time": "Closed"
+            },
+            {
+              "name": "Sunday",
+              "time": "12:30pm-7:30pm"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "Welcome to the Kosher Eatery at Weinstein. The Kosher Eatery is 100% KOF-K supervised kosher program that serves daily meals and includes a Shabbat meal on Fridays. Meat entrees are served on Monday, Wednesday, Friday, and Sunday. Tuesdays and Thursdays dairy foods are served. We also offer Kosher premade meals in Weinstein Food Court and in the Market Place in Kimmel. Now there are even more options and places to get a great tasting, healthy, kosher meal. If you plan to dine with us during Shabbat you must purchase a meal voucher no later than 7pm on the Thursday before Shabbat. Non-meal plan members can purchase Shabbat tickets for $12.95. Be advised, only customers with advance reservations will be permitted to dine in the Kosher Eatery on Friday night and Saturday afternoon.",
+      "address": "5-11 University Place, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.731281,-73.994934&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-995-3939"
+    },
+    {
+      "name": "Market Place at Kimmel",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/Kimmel-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/MarketPlaceatKimmel.aspx",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": "10:30am-8:00pm"
+            },
+            {
+              "name": "Saturday - Sunday",
+              "time": "Closed"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "Located on the third floor of the Helen and Martin Kimmel Center for University Life, the Market Place offers a variety of international and traditional dining choices including: The Italian Market, Faye's Deli, Habanero Mexican, Halal, and Chloe's Soft Serve. Indoor and outdoor seating is available from which you can enjoy great views of Washington Square Park and the Empire State Building. In a hurry? Our grab n' go options are the convenient way to eat on the go. Choose from a wide variety of freshly packaged meals and snacks.",
+      "address": "60 Washington Square South 3rd Floor, New York, NY 10012",
+      "directions": "https://www.google.com/maps?ll=40.730183,-73.997894&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-998-4573"
+    },
+    {
+      "name": "Palladium by LifeWorks",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/PaladiumLogo-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/PalladiumbyLifeWorks.aspx",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Friday",
+              "time": [
+                "7:00am–2:00pm",
+                "4:00pm–10:00pm"
+              ]
+            },
+            {
+              "name": "Saturday",
+              "time": [
+                "11:00am–3:00pm",
+                "4:00pm–10:00pm"
+              ]
+            },
+            {
+              "name": "Sunday",
+              "time": [
+                "11:00am-3:00pm",
+                "5:00pm-10:00pm"
+              ]
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "Be inspired, the LifeWorks way! We’ve worked with LifeWorks Restaurant Group, a premium custom restaurant company, to create a unique retail experience with unparallel culinary service culture. The Palladium Food Court features scratch cooking that is local, wholesome, healthy and authentic. Palladium is all about the experience – from the passionate knowledgeable employees to updated aesthetics. This is the first partnership between LifeWorks Restaurants and Higher Education and we are proud to bring it to New York University.",
+      "address": "140 E 14th Street, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.729947,-73.980522&z=14&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-998-4079"
+    },
+    {
+      "name": "Peet's Coffee and Tea",
+      "logo": "",
+      "url": "",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Thursday",
+              "time": "11:30am-7:30pm"
+            },
+            {
+              "name": "Friday",
+              "time": "11:30am-3:00pm"
+            },
+            {
+              "name": "Saturday",
+              "time": "Closed"
+            },
+            {
+              "name": "Sunday",
+              "time": "12:30pm-7:30pm"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "",
+      "address": ", New York, NY 10003",
+      "directions": "",
+      "phone": ""
+    },
+    {
+      "name": "Sidestein Market",
+      "logo": "",
+      "url": "",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Thursday",
+              "time": "11:30am-7:30pm"
+            },
+            {
+              "name": "Friday",
+              "time": "11:30am-3:00pm"
+            },
+            {
+              "name": "Saturday",
+              "time": "Closed"
+            },
+            {
+              "name": "Sunday",
+              "time": "12:30pm-7:30pm"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "",
+      "address": ", New York, NY 10003",
+      "directions": "",
+      "phone": ""
+    },
+    {
+      "name": "Starbucks at Faye's",
+      "logo": "",
+      "url": "",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Thursday",
+              "time": "11:30am-7:30pm"
+            },
+            {
+              "name": "Friday",
+              "time": "11:30am-3:00pm"
+            },
+            {
+              "name": "Saturday",
+              "time": "Closed"
+            },
+            {
+              "name": "Sunday",
+              "time": "12:30pm-7:30pm"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "",
+      "address": ", New York, NY 10003",
+      "directions": "",
+      "phone": ""
+    },
+    {
+      "name": "3rd North Courtyard Cafe",
+      "logo": "",
+      "url": "",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Thursday",
+              "time": "11:30am-7:30pm"
+            },
+            {
+              "name": "Friday",
+              "time": "11:30am-3:00pm"
+            },
+            {
+              "name": "Saturday",
+              "time": "Closed"
+            },
+            {
+              "name": "Sunday",
+              "time": "12:30pm-7:30pm"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "",
+      "address": ", New York, NY 10003",
+      "directions": "",
+      "phone": ""
+    },
+    {
+      "name": "University Hall Commons Cafe",
+      "logo": "",
+      "url": "",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Thursday",
+              "time": "11:30am-7:30pm"
+            },
+            {
+              "name": "Friday",
+              "time": "11:30am-3:00pm"
+            },
+            {
+              "name": "Saturday",
+              "time": "Closed"
+            },
+            {
+              "name": "Sunday",
+              "time": "12:30pm-7:30pm"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "",
+      "address": ", New York, NY 10003",
+      "directions": "",
+      "phone": ""
+    },
+    {
+      "name": "Weinstein Food Court",
+      "logo": "",
+      "url": "",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Thursday",
+              "time": "11:30am-7:30pm"
+            },
+            {
+              "name": "Friday",
+              "time": "11:30am-3:00pm"
+            },
+            {
+              "name": "Saturday",
+              "time": "Closed"
+            },
+            {
+              "name": "Sunday",
+              "time": "12:30pm-7:30pm"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "",
+      "address": ", New York, NY 10003",
+      "directions": "",
+      "phone": ""
+    },
+    {
+      "name": "Weinstein Passport Dining",
+      "logo": "",
+      "url": "",
+      "timetable": [
+        {
+          "time": "academic year",
+          "information": [
+            {
+              "name": "Monday-Thursday",
+              "time": "11:30am-7:30pm"
+            },
+            {
+              "name": "Friday",
+              "time": "11:30am-3:00pm"
+            },
+            {
+              "name": "Saturday",
+              "time": "Closed"
+            },
+            {
+              "name": "Sunday",
+              "time": "12:30pm-7:30pm"
+            }
+          ]
+        }
+      ],
+      "payments": [
+        {
+          "name": "Dining Dollars",
+          "accepted": true
+        },
+        {
+          "name": "Campus Cash",
+          "accepted": true
+        },
+        {
+          "name": "Credit",
+          "accepted": true
+        },
+        {
+          "name": "Cash",
+          "accepted": true
+        },
+        {
+          "name": "Meal Plan",
+          "accepted": true
+        }
+      ],
+      "description": "",
+      "address": ", New York, NY 10003",
+      "directions": "",
+      "phone": ""
+    }
+  ]
+}
