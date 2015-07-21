@@ -11,6 +11,7 @@ deployment:
     branch: master
     commands:
       - mkdir $HOME/$CIRCLE_PROJECT_REPONAME/app
+      - mv $HOME/$CIRCLE_PROJECT_REPONAME/index.html $HOME/$CIRCLE_PROJECT_REPONAME/app/index.html
       - mv $HOME/$CIRCLE_PROJECT_REPONAME/athletics.json $HOME/$CIRCLE_PROJECT_REPONAME/app/athletics.json
       - mv $HOME/$CIRCLE_PROJECT_REPONAME/buildings.json $HOME/$CIRCLE_PROJECT_REPONAME/app/buildings.json
       - turbolift -u $RAXUSER -a $RAXAPIKEY --os-rax-auth $RAXREGION upload -s $HOME/$CIRCLE_PROJECT_REPONAME/app -c $CONTAINER;
