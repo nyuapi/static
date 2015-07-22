@@ -307,27 +307,19 @@
     },
     {
       "name": "Peet's Coffee and Tea",
-      "logo": "",
-      "url": "",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/PeetsCoffee-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/PeetsCoffeeandTea.aspx",
       "timetable": [
         {
           "time": "academic year",
           "information": [
             {
-              "name": "Monday-Thursday",
-              "time": "11:30am-7:30pm"
-            },
-            {
-              "name": "Friday",
-              "time": "11:30am-3:00pm"
-            },
-            {
-              "name": "Saturday",
-              "time": "Closed"
+              "name": "Monday-Saturday",
+              "time": "8:00am-10:00pm"
             },
             {
               "name": "Sunday",
-              "time": "12:30pm-7:30pm"
+              "time": "12:00pm-9:00pm"
             }
           ]
         }
@@ -354,34 +346,26 @@
           "accepted": true
         }
       ],
-      "description": "",
-      "address": ", New York, NY 10003",
-      "directions": "",
-      "phone": ""
+      "description": "New! Fall 2014 Peet's Gold Standard Hand Crafted specialty coffee since 1966. Peet's creates the Gold Standard by which all other coffees are judged. They offer a premium product that brings the great NYU Dining experience to the next level. Taste the difference in their coffee with their artisan roastery, a custom designed facility delivering fresh hand roasted coffee within 24 hours of roasting the beans. Coffee is roasted in small batches with the freshest beans to ensure high quality, optimal flavor and aroma.",
+      "address": "60 Washington Square South 2nd floor, New York, NY 10012",
+      "directions": "https://www.google.com/maps?ll=40.725261,-73.993122&z=14&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-998-4573"
     },
     {
       "name": "Sidestein Market",
-      "logo": "",
-      "url": "",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/SidesteinLogo.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/SidesteinMarket.aspx",
       "timetable": [
         {
           "time": "academic year",
           "information": [
             {
-              "name": "Monday-Thursday",
-              "time": "11:30am-7:30pm"
+              "name": "Monday-Friday",
+              "time": "8:00am-11:00pm"
             },
             {
-              "name": "Friday",
-              "time": "11:30am-3:00pm"
-            },
-            {
-              "name": "Saturday",
-              "time": "Closed"
-            },
-            {
-              "name": "Sunday",
-              "time": "12:30pm-7:30pm"
+              "name": "Saturday-Sunday",
+              "time": "11:00am-11:00pm"
             }
           ]
         }
@@ -405,37 +389,33 @@
         },
         {
           "name": "Meal Plan",
-          "accepted": true
+          "accepted": false
         }
       ],
-      "description": "",
-      "address": ", New York, NY 10003",
-      "directions": "",
-      "phone": ""
+      "description": "Sidestein Market in Sidestein, comes “fully loaded” with food and products that you will need throughout the school year. With an array of options ranging from prepared sandwiches and salads to fresh produce, hot meals, on the go snacks and gourmet coffee, our Sidestein Market can fulfill your on-campus need for selection, quality and value.",
+      "address": "5-11 University Place, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.736393,-73.993153&z=14&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-998-4216"
     },
     {
       "name": "Starbucks at Faye's",
-      "logo": "",
-      "url": "",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/Starbucks-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/StarbucksatFayes.aspx",
       "timetable": [
         {
           "time": "academic year",
           "information": [
             {
               "name": "Monday-Thursday",
-              "time": "11:30am-7:30pm"
+              "time": "7:00am-12:00am"
             },
             {
               "name": "Friday",
-              "time": "11:30am-3:00pm"
+              "time": "7:00am-11:00am"
             },
             {
-              "name": "Saturday",
-              "time": "Closed"
-            },
-            {
-              "name": "Sunday",
-              "time": "12:30pm-7:30pm"
+              "name": "Saturday-Sunday",
+              "time": "8:00am-11:00pm"
             }
           ]
         }
@@ -459,37 +439,29 @@
         },
         {
           "name": "Meal Plan",
-          "accepted": true
+          "accepted": false
         }
       ],
-      "description": "",
-      "address": ", New York, NY 10003",
-      "directions": "",
-      "phone": ""
+      "description": "Located across from Washington Square Park, students flock in for their favorite caramel macchiato or frappuccino. Baristas bring the average Starbucks service to the next level providing the NYU community with an optimal guest experience. The comfortable seating is especially inviting for hanging out with friends and surfing the web using free, wireless access. You plan the meeting and we'll bring the food! We now offer a delicious catering menu perfect for your next office or group meeting. Delivery is available for orders for 10 or more. Call for catering information.",
+      "address": "45 West 4th Street, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.729679,-73.996323&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-995-3443"
     },
     {
       "name": "3rd North Courtyard Cafe",
-      "logo": "",
-      "url": "",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/3rdNorth-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/ThirdNorthCourtyardCafe.aspx",
       "timetable": [
         {
           "time": "academic year",
           "information": [
             {
-              "name": "Monday-Thursday",
-              "time": "11:30am-7:30pm"
+              "name": "Monday-Friday",
+              "time": "7:00am-10:00pm"
             },
             {
-              "name": "Friday",
-              "time": "11:30am-3:00pm"
-            },
-            {
-              "name": "Saturday",
-              "time": "Closed"
-            },
-            {
-              "name": "Sunday",
-              "time": "12:30pm-7:30pm"
+              "name": "Saturday-Sunday",
+              "time": "10:00am-9:00pm"
             }
           ]
         }
@@ -516,34 +488,26 @@
           "accepted": true
         }
       ],
-      "description": "",
+      "description": "Welcome to the Courtyard Cafe at 3rd North. Here you can find traditional American classics, like savory chicken club wraps, chicken parmesan, pizza and mac and cheese. At our grill, we only serve cage free eggs. We also offer gluten-free and vegetarian options.",
       "address": ", New York, NY 10003",
-      "directions": "",
-      "phone": ""
+      "directions": "https://www.google.com/maps?ll=40.731628,-73.988281&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-995-3021"
     },
     {
       "name": "University Hall Commons Cafe",
-      "logo": "",
-      "url": "",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/UniversityHallCommonsCafe-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/UniversityHallCommonsCafe.aspx",
       "timetable": [
         {
           "time": "academic year",
           "information": [
             {
-              "name": "Monday-Thursday",
-              "time": "11:30am-7:30pm"
+              "name": "Monday-Friday",
+              "time": "11:00am-11:00pm"
             },
             {
-              "name": "Friday",
-              "time": "11:30am-3:00pm"
-            },
-            {
-              "name": "Saturday",
-              "time": "Closed"
-            },
-            {
-              "name": "Sunday",
-              "time": "12:30pm-7:30pm"
+              "name": "Saturday-Sunday",
+              "time": "4:00pm-11:00pm"
             }
           ]
         }
@@ -570,34 +534,34 @@
           "accepted": true
         }
       ],
-      "description": "",
-      "address": ", New York, NY 10003",
-      "directions": "",
-      "phone": ""
+      "description": "Welcome to U-Hall Commons Cafe. This hidden gem, located in the basement of University Hall residence hall features Burger Studio, a made-to-order burger concept and a P.O.D. Market convenience store that sells everything from fresh produce to personal items.",
+      "address": "110 East 14th Street, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.737699,-73.998095&z=14&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-998-4075"
     },
     {
       "name": "Weinstein Food Court",
-      "logo": "",
-      "url": "",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/WeinsteinFoodCt-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/WeinsteinFoodCourt.aspx",
       "timetable": [
         {
           "time": "academic year",
           "information": [
             {
               "name": "Monday-Thursday",
-              "time": "11:30am-7:30pm"
+              "time": "10:30am-12:00am"
             },
             {
               "name": "Friday",
-              "time": "11:30am-3:00pm"
+              "time": "10:30am-3:00pm"
             },
             {
               "name": "Saturday",
-              "time": "Closed"
+              "time": "12:00pm-11:00pm"
             },
             {
               "name": "Sunday",
-              "time": "12:30pm-7:30pm"
+              "time": "3:00pm-11:00pm"
             }
           ]
         }
@@ -624,34 +588,36 @@
           "accepted": true
         }
       ],
-      "description": "",
-      "address": ", New York, NY 10003",
-      "directions": "",
-      "phone": ""
+      "description": "Located on the street level in the Weinstein Residence Hall you will find the Weinstein Food Court, also referred to as “Upstein”. The Food Court serves lunch, dinner and late night meals. We feature the only Quiznos Sub in the area and the only Chick-fil-A in New York. You can grab breakfast all day at Over Easy or a healthy smoothie at Jamba Juice. We also feature original concepts such as, Soup Creations and the Salad Garden, where you pick your own fresh vegetables and toppings to create a delicious salad.",
+      "address": "5-11 University Place, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.731281,-73.994934&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-998-4931"
     },
     {
       "name": "Weinstein Passport Dining",
-      "logo": "",
-      "url": "",
+      "logo": "http://nyu.campusdish.com/-/media/Images/Aramark/Higher%20Education/NorthEast/NewYork/Location/Weinstein-225x150.jpg?h=150&la=en&w=225",
+      "url": "http://nyu.campusdish.com/Locations/WeinsteinPassportDining.aspx",
       "timetable": [
         {
           "time": "academic year",
           "information": [
             {
               "name": "Monday-Thursday",
-              "time": "11:30am-7:30pm"
+              "time": [
+                "7:00am-3:00pm",
+                "4:00pm-9:00pm"
+              ]
             },
             {
               "name": "Friday",
-              "time": "11:30am-3:00pm"
+              "time": "7:00am-9:00pm"
             },
             {
-              "name": "Saturday",
-              "time": "Closed"
-            },
-            {
-              "name": "Sunday",
-              "time": "12:30pm-7:30pm"
+              "name": "Saturday-Sunday",
+              "time": [
+                "8:00pm-3:00pm",
+                "4:00pm-9:00pm"
+              ]
             }
           ]
         }
@@ -678,10 +644,10 @@
           "accepted": true
         }
       ],
-      "description": "",
-      "address": ", New York, NY 10003",
-      "directions": "",
-      "phone": ""
+      "description": "Welcome to Weinstein Passport Dining Hall. Also known as Downstein, this location is taking NYU Dining guests through a great global experience. Their unique Passports brand focuses on world flavors, exploring ethnic foods and authentic tastes from around the globe. At Weinstein Dining, you can experience the world through your taste buds without leaving New York City. Weinstein is also home of NYU Dining's Gluten Free station and Vegetarian Wok.",
+      "address": "5-11 University Place, New York, NY 10003",
+      "directions": "https://www.google.com/maps?ll=40.731281,-73.994934&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+      "phone": "212-995-3056"
     }
   ]
 }

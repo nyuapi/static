@@ -14,4 +14,5 @@ deployment:
       - mv $HOME/$CIRCLE_PROJECT_REPONAME/index.html $HOME/$CIRCLE_PROJECT_REPONAME/app/index.html
       - mv $HOME/$CIRCLE_PROJECT_REPONAME/athletics.json $HOME/$CIRCLE_PROJECT_REPONAME/app/athletics.json
       - mv $HOME/$CIRCLE_PROJECT_REPONAME/buildings.json $HOME/$CIRCLE_PROJECT_REPONAME/app/buildings.json
+      - mv $HOME/$CIRCLE_PROJECT_REPONAME/dining.json $HOME/$CIRCLE_PROJECT_REPONAME/app/dining.json
       - turbolift -u $RAXUSER -a $RAXAPIKEY --os-rax-auth $RAXREGION upload -s $HOME/$CIRCLE_PROJECT_REPONAME/app -c $CONTAINER;
