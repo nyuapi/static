@@ -12,6 +12,7 @@ deployment:
     commands:
       - mkdir $HOME/$CIRCLE_PROJECT_REPONAME/app
       - mv $HOME/$CIRCLE_PROJECT_REPONAME/index.html $HOME/$CIRCLE_PROJECT_REPONAME/app/index.html
+      - mv $HOME/$CIRCLE_PROJECT_REPONAME/library.html $HOME/$CIRCLE_PROJECT_REPONAME/app/library.html
       - mv $HOME/$CIRCLE_PROJECT_REPONAME/athletics.json $HOME/$CIRCLE_PROJECT_REPONAME/app/athletics.json
       - mv $HOME/$CIRCLE_PROJECT_REPONAME/buildings.json $HOME/$CIRCLE_PROJECT_REPONAME/app/buildings.json
       - mv $HOME/$CIRCLE_PROJECT_REPONAME/dining.json $HOME/$CIRCLE_PROJECT_REPONAME/app/dining.json
